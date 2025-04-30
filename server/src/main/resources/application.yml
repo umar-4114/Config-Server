@@ -6,10 +6,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/arslan12941/SCD-Final.git
+          uri: https://github.com/umar-4114/SCD-Final.git
           default-label: main
           search-paths: /
   security:
     user:
-      name: arslan
-      password: arslan12941
+      name: umar
+      password: umar4114
